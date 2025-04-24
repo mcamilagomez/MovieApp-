@@ -29,17 +29,18 @@ Una aplicación móvil construida con **React Native** que permite a los usuario
 ---
 
 ## 🚀 Instalación
-
 1. Clona este repositorio:
 
 ```bash
 git clone https://github.com/tu-usuario/movie-explorer.git
 cd movie-explorer
+```
 
 2. Instala las dependencias:
 
 ```bash
 npm install
+```
 
 3. Ejecuta la aplicación:
 
@@ -47,11 +48,12 @@ npm install
 
 ```bash
 npx react-native run-android
-
+```
 *En iOS (solo macOS):*
 
 ```bash
 npx react-native run-ios
+```
 
 ---
 
@@ -69,5 +71,4 @@ Mirá cómo funciona la aplicación en este video:
 
 [![Ver el video](https://img.youtube.com/vi/Cmj7YToRNhM/0.jpg)](https://youtube.com/shorts/Cmj7YToRNhM)
 
-
-
+---
