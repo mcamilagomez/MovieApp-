@@ -42,7 +42,10 @@ cd movie-explorer
 npm install
 ```
 
-3. Ejecuta la aplicación:
+3. En el Archivo .env.example coloca tu API_KEY de la página:
+   https://developer.themoviedb.org/docs/getting-started
+
+4. Ejecuta la aplicación:
 
 *En Android:*
 
